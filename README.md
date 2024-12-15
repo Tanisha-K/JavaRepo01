@@ -1,2 +1,2 @@
 # JavaRepo01
-Add java project in GitHub
+Basic programs in java
